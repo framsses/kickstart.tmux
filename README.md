@@ -1,2 +1,2 @@
 # kickstart.tmux
-Tmux Starting Point
+Tmux framsses Starting Point
